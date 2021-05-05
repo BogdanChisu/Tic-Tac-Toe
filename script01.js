@@ -156,6 +156,7 @@ function run() {
 		}
 		if (move === 8 && wins === 0) {
 			document.getElementById("move_id").innerHTML = "IT's A DRAW!!!";
+			restartBtn();
 		}
 	}
 }
