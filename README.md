@@ -1,6 +1,6 @@
 # Tic, Tac, Toe
 
-Simple overview of use/purpose
+Title is self-explanatory
 
 ## Description
 
