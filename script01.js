@@ -107,7 +107,7 @@ function run() {
 			let picDiag1 = document.createElement("img");
 			picDiag1.src = "images/diag1.png";
 			grid.appendChild(picDiag1);
-			win++;
+			wins++;
 			restartBtn();
 		}
 	}
@@ -127,7 +127,7 @@ function run() {
 			let picDiag2 = document.createElement("img");
 			picDiag2.src = "images/diag2.png";
 			grid.appendChild(picDiag2);
-			win++;
+			wins++;
 			restartBtn();
 		}
 	}
